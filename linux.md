@@ -126,7 +126,7 @@
 <p>Syntax :</p>
 <tr><td>$ who</td></tr>
 </table>
-<li><b>cat command</b> :-> used for create,view and concatenate files</li>
+<li><b>Cat command</b> :-> used for create,view and concatenate files</li>
 <table>
 <tr><th>Sr No</th>
 <th>Command :-></th>
@@ -148,6 +148,7 @@
  <td>$ ls > filename</td>
  <td>It is used to overwrite the content of file</td>
 </tr>
+</table>
 <li><b>less command</b> :-> same as cat but shows large content of file</li>
 <table>
 <p>Syntax :</p>
