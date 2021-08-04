@@ -21,7 +21,7 @@ if(condition){
   // code to be executed if the condition is false.
 }
 ```
-## Switch-Case
+### Switch-Case
 
  The `switch` statement to select one of case code blocks to be executed.
 
@@ -327,10 +327,10 @@ let person = {name:"sam",age:"30"};
 <b><i>JavaScript Objects are containers for named values, called properties and methods.</i></b>
 
 ### Creating a JavaScript Objects 
-. using an object literal.
-. Create a single object, with the keyword <b>new.</b>
-. Creating with Function Constructor & prototype    
-. Create an object using Object.create().
+* using an object literal.
+* Create a single object, with the keyword <b>new.</b>
+* Creating with Function Constructor & prototype    
+* Create an object using Object.create().
 
 <b>Lets dicuss with given Example :-></b>
 
@@ -385,10 +385,10 @@ var person = {
     }, 
     getdetail2: function(){   
       return function(){      
-        return this;
-      };  // refers to global object
+        return this; // refers to global object
+      };   
     },
-    getdetail3: function() { // this => student object
+    getdetail3: function() { // this => person object
       return () => {   
         return this; // refers to current object 
       };  
