@@ -14,7 +14,7 @@
     
 ## 3. [Building-Block of Web Dev](bbwd.md)
 
-## 4. [JavaScript](javascript.md)
+## 4. [JavaScript](javascipt.md)
     * HISTORY OF JAVASCRIPT
     * Fundamentals Of JavaScript
     * Variables
