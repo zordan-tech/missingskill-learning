@@ -1,5 +1,5 @@
 # missingskill-learning
-# Table of Contents
+# Table of Contents 🚀: 💥: 🌟:
 
 ## 1. [Linux](linux.md)
     * Linux History & Commands
